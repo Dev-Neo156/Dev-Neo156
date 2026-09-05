@@ -1,42 +1,56 @@
 <div align="center">
 
-<!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
-     wordmark (wipes in left-to-right, then rocks on its vertical axis).
-     widths are picked so both panels land at the same height.
-     portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
-     wordmark: python scripts/make_wordmark_svg.py --mode rock
-     how the wordmark is built: docs/3d-ascii-wordmark.md -->
-
-<h3><code>avi@github ~ $ whoami</code></h3>
+<h3><code>aditya@github ~ $ whoami</code></h3>
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="370" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./wordmark.svg" width="490" alt="AVI — 3D ASCII wordmark" /></td>
+<td valign="top">
+<img src="./aditya-ascii.svg" width="370" alt="Aditya Kumar Kisan - ASCII portrait" />
+</td>
+
+<td valign="top">
+<img src="./wordmark.svg" width="490" alt="ADITYA - 3D ASCII wordmark" />
+</td>
 </tr>
 </table>
 
 <br>
 <br>
 
-<!-- animated contribution graph: real data, boxes reveal cell by cell
-     (regenerated daily by .github/workflows/update-profile-art.yml) -->
+<h3><code>aditya@github ~ $ ./contributions.sh</code></h3>
 
-<h3><code>avi@github ~ $ ./contributions.sh</code></h3>
-
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img
+  src="./contrib-heatmap.svg"
+  width="860"
+  alt="Aditya's GitHub contribution graph"
+/>
 
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>aditya@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p><b>AI Builder · Full Stack Developer · Problem Solver</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Instagram](https://img.shields.io/badge/Instagram-avi__vashishta29-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/avi_vashishta29)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+<a href="https://github.com/Dev-Neo156">
+<img src="https://img.shields.io/badge/GitHub-Dev--Neo156-0d1117?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<!-- Replace YOUR_LINKEDIN_URL with your actual LinkedIn profile -->
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Aditya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<br><br>
+
+<p>
+<code>Java</code> ·
+<code>Python</code> ·
+<code>JavaScript</code> ·
+<code>HTML/CSS</code> ·
+<code>Git</code> ·
+<code>GitHub</code>
+</p>
 
 <br>
 
